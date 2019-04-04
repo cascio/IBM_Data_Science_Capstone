@@ -1,4 +1,4 @@
-# "Tuning-In To NYC’s Most Musical Neighborhoods"
+# "Tuning-In To NYC’s Musical Neighborhoods"
 
 ## Overview
 
@@ -6,7 +6,7 @@
 - [Abstract](#abstract)
 - [Background](#background)
 - [Problem](#problem)
-- [Potential Stakeholders](#stakeholders)
+- [Stakeholders](#stakeholders)
 
 ## Deliverables
 
