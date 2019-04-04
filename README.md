@@ -12,6 +12,7 @@
 
 - [Final Report](https://github.com/cascio/IBM_Data_Science_Capstone/blob/master/FINAL%20REPORT.pdf)
 - [Notebook](https://github.com/cascio/Coursera_Capstone/blob/master/NOTEBOOK.ipynb)
+- [Medium Article](https://medium.com/@michael.cascio/tuning-in-to-nycs-music-neighborhoods-efb7ae77a4cd)
 - [Archived Assignments](https://github.com/cascio/Coursera_Capstone/tree/master/Archived%20Assignments)
 
 ## Why
