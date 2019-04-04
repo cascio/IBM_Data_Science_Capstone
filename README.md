@@ -10,8 +10,8 @@
 
 ## Deliverables
 
-- [Draft Report](https://github.com/cascio/Coursera_Capstone/blob/master/DRAFT%20-%20CAPSTONE%20PROJECT%20REPORT.pdf)
-- [Draft Jupyter Notebook](https://github.com/cascio/Coursera_Capstone/blob/master/Coursera_Capstone.ipynb)
+- [Final Report](https://github.com/cascio/IBM_Data_Science_Capstone/blob/master/FINAL%20REPORT.pdf)
+- [Notebook](https://github.com/cascio/Coursera_Capstone/blob/master/NOTEBOOK.ipynb)
 - [Archived Assignments](https://github.com/cascio/Coursera_Capstone/tree/master/Archived%20Assignments)
 
 ## Why
